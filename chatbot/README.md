@@ -10,4 +10,5 @@ _Implementación de chatbot en react._
 
 Puedes encontrar el proyecto original en: [Build a Chatbot with React](https://www.freecodecamp.org/news/how-to-build-a-chatbot-with-react/).
 
+---
 ⌨️ con ❤️ por [hrypasato](https://github.com/hrypasato) 😊
