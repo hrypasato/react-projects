@@ -1,10 +1,11 @@
 # Rick and Morty wiki 
 
-_Wiki dinámica, incluye animaciones interactivas y transiciones de página _
-
-This is a  project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+_Aplicación web dinámica, incluye animaciones interactivas y transiciones de página_
 
 ## Construido con 🛠️
 
 * [Next.js](https://nextjs.org/)- El framework de React
 
+## Fuente 📖
+
+Puedes encontrar el proyecto original en [Rick & Morty Wiki](https://www.freecodecamp.org/news/how-to-create-a-dynamic-rick-and-morty-wiki-web-app-with-next-js/) y [Framer Motion](https://www.freecodecamp.org/news/how-to-add-interactive-animations-and-page-transitions-to-a-next-js-web-app-with-framer-motion/)
